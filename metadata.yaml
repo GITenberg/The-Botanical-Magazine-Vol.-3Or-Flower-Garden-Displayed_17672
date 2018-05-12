@@ -1,0 +1,50 @@
+_repo: The-Botanical-Magazine-Vol.-3Or-Flower-Garden-Displayed_17672
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, William
+    alias: Curtis, W. (William)
+    birthdate: 1746
+    deathdate: 1799
+    gutenberg_agent_id: '7233'
+    url: http://www.gutenberg.org/2009/agents/7233
+    wikipedia: http://en.wikipedia.org/wiki/William_Curtis
+description: ''
+gutenberg_bookshelf:
+- Horticulture
+- The Botanical Magazine
+gutenberg_issued: '2006-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17672'
+language: en
+publication_note: "LONDON:\r\n\r\nPrinted by Couchman and Fry, Throgmorton-Street,\r\
+  \nFor W. CURTIS, at his Botanic-Garden, Lambeth-Marsh;\r\nAnd Sold by the principal\
+  \ Booksellers in Great-Britain and Ireland.\r\n\r\nM DCC XC."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Periodicals'
+- !lcsh 'Plants, Cultivated -- Periodicals'
+- !lcc 'QK'
+- !lcsh 'Botanical illustration -- Periodicals'
+- !lcsh 'Plants, Ornamental -- Periodicals'
+tableOfContents: "[73]—Monsonia speciosa.\r\n[74]—Antirrhinum triste.\r\n[75]—Potentilla\
+  \ grandiflora.\r\n[76]—Epilobium angustissimum.\r\n[77]—Centaurea montana.\r\n[78]—Narcissus\
+  \ odorus.\r\n[79]—Lotus Jacobæus.\r\n[80]—Spigelia Marilandica.\r\n[81]—Colutea\
+  \ Arborescens.\r\n[82]—Lachenalia Tricolor.\r\n[83]—Hibiscus Syriacus.\r\n[84]—Tussilago\
+  \ Alpina.\r\n[85]—Spartium Jungeum.\r\n[86]—Gladiolus Communis.\r\n[87]—Hyoscyamus\
+  \ Aureus.\r\n[88]—Narcissus Bulbocodium.\r\n[89]—Viola Pedata.\r\n[90]—Gorteria\
+  \ Rigens.\r\n[91]—Iris Susiana.\r\n[92]—Saxifraga Sarmentosa.\r\n[93]—Sempervivum\
+  \ Monanthes.\r\n[94]—Sisyrinchium Irioides.\r\n[95]—Geranium Radula.\r\n[96]—Lantana\
+  \ Aculeata.\r\n[97]—Fuchsia Coccinea.\r\n[98]—Tropæolum Minus.\r\n[99]—Antirrhinum\
+  \ Purpureum.\r\n[100]—Lathyrus Tingitanus.\r\n[101]—Alyssum Halimifolium.\r\n[102]—Campanula\
+  \ Speculum.\r\n[103]—Pelargonium Acetosum.\r\n[104]—Lysimachia Bulbifera.\r\n[105]—Tradescantia\
+  \ Virginica.\r\n[106]—Iberis Umbellata.\r\n[107]—Cassia Chamæcrista.\r\n[108]—Anthyllis\
+  \ Tetraphylla."
+title: "The Botanical Magazine, Vol. 03\r\nOr, Flower-Garden Displayed"
+url: http://www.gutenberg.org/ebooks/17672
